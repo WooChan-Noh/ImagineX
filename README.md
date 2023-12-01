@@ -131,3 +131,9 @@ Make the camera follow the character
       > + If a recording is in progress, all interaction with the picture frame is **blocked** except to end the recording    
       > + So you must press the trigger button on the **outside of the picture frame**, hold it down, point to the picture frame, and release the trigger button to end the recording.
 ---
+![Screenshot (1)](https://github.com/WooChan-Noh/ImagineX/assets/103042258/def88683-38a0-422f-a6b3-0861f06d261f)
+![Screenshot (2)](https://github.com/WooChan-Noh/ImagineX/assets/103042258/fb5da3ca-ee05-42db-a413-24a2f2d1674e)
+![UI (2)](https://github.com/WooChan-Noh/ImagineX/assets/103042258/54832acc-ee9f-478a-b0bb-fc09592a33cc)
+![test1](https://github.com/WooChan-Noh/ImagineX/assets/103042258/f4421a38-c78d-4df8-aa0f-b4d7258dfe88)
+![test2](https://github.com/WooChan-Noh/ImagineX/assets/103042258/5d0c4538-6993-4f01-ac3e-9b363d7e9e84)
+
