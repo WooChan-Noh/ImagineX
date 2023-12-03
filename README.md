@@ -118,7 +118,7 @@ For third-person, using Ray to don't cross the map object
 + `FollowCamera.cs`    
 Make the camera follow the character
 ## Known Issue
-+ Ray doesn't work properly and Processes take a long time or get stuck (in editor mode) - **This does not happen in APK builds**
++ Ray doesn't work properly and Processes take a long time or get stuck - **Only happens on MacBook**
 + **If you finish an interaction outside the frame**
   + If you press the trigger button in the frame to start recording, and then release the trigger button **outside the frame**, the recording is forced for 20 seconds (maximum recording time).
   + During this time, you will not be able to record another picture frame and will have to wait for it to finish processing.
