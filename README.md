@@ -1,5 +1,5 @@
-# ImagineX (in progress)
-+ The purpose of this project to make generative AI easy to use. (Illustration)
+# ImagineX
++ The purpose of this project to make generative AI easy to use. (generate picture)
 + UI design was done by designer from _TinyGem_
 + Only available in Korean
 + This project contain paid assets. (Map, UI effect)
@@ -103,8 +103,8 @@ Post-process the results from Karlo, rescale them to match the object materials,
 You can always use screenshots, but the character turning around only works in third-person mode.    
 + `HandRayControll.cs`    
 using the Oculus SDK, set up a Ray with the controller's location as the origin.    
-Controll Ray is rendered or not, color change, and the tag of the interacted object.    
-Tags are included to prevent errors.
+This script controll what ray is rendered or not, color change, and the tag of the interacted object.    
+Tags are prevent errors.
 + `CharacterManager.cs`    
 Rendering the character and has Transform information to change the position of the camera and character object.
 + `CharacterControll.cs`    
@@ -114,7 +114,7 @@ Keyboard code is also included for testing the PC version.
 + `CameraManager.cs`    
 Sets the position of the camera based on the character's location.    
 Position the camera to match the perspective.    
-For third-person, using Ray to don't cross the map object 
+For third-person, using Ray to camera don't cross the map object 
 + `FollowCamera.cs`    
 Make the camera follow the character
 ## Known Issue
