@@ -5,7 +5,7 @@
 + 韓国語のみです。
 ## Overview
 ### What it does
-+ 音声を入力として受け取り、韓国語テキストに変換します。
++ 音声を入力して受け取り、韓国語テキストに変換します。
 + 韓国語テキストを英語テキストに変換します。
 + 生成AIを活用します。 (REST通信)
 + 生成されたイメージを表示します。
@@ -14,8 +14,8 @@
 + Meta Quest Pro 
 ### I used this tech
 + ETRI : SST (voice to text) [API](https://aiopen.etri.re.kr/guide/Recognition)
-+ Papago : 번역 (kor to eng) [API](https://developers.naver.com/docs/papago/README.md)
-+ Karlo : 생성형 AI [API](https://developers.kakao.com/product/karlo)
++ Papago : 翻訳 (kor to eng) [API](https://developers.naver.com/docs/papago/README.md)
++ Karlo : 生成 AI [API](https://developers.kakao.com/product/karlo)
 + Oculus SDK and API : Follow official guide [Official guide](https://developer.oculus.com/documentation/unity/unity-gs-overview/), [Controller API](https://developer.oculus.com/documentation/unity/unity-ovrinput/)
 ## Learn more
 + VR開発環境設定が必要です。
