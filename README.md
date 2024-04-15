@@ -1,4 +1,4 @@
-[Read Me - English](https://github.com/WooChan-Noh/ImagineX/blob/main/ReadMeEng.md)
+[Read Me - English](https://github.com/WooChan-Noh/ImagineX/blob/main/ReadMeEng.md)    
 [Read Me - Japanese](https://github.com/WooChan-Noh/ImagineX/blob/main/ReadMeJp.md)
 # ImagineX
 + 이 프로젝트의 목적은 생성형 AI를 쉽게 사용하는 것입니다.
