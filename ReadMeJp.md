@@ -1,13 +1,13 @@
 # ImagineX
-+ このプロジェクトの目的は、生成型AIを簡単に使うことです。
-  + 音声コマンドをもとに、生成型AIを活用して絵を生成します。
++ このプロジェクトの目的は、プロンプトに慣れない人が生成AIを簡単に使うことです。
+  + 音声コマンドをもとに、生成AIを活用して絵を生成します。
 + UI design was done by designer from _TinyGem_
 + 韓国語のみです。
 ## Overview
 ### What it does
 + 音声を入力して受け取り、韓国語テキストに変換します。
 + 韓国語テキストを英語テキストに変換します。
-+ 生成AIを活用します。 (REST通信)
++ 英語テキストをプロンプトで生成AIを活用します。 (REST通信)
 + 生成されたイメージを表示します。
 ### Test Environment (Only available in VR)
 + Meta Quest2
