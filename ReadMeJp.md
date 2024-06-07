@@ -7,7 +7,7 @@
 ### What it does
 + 音声を入力して受け取り、韓国語テキストに変換します。
 + 韓国語テキストを英語テキストに変換します。
-+ 英語テキストをプロンプトで生成AIを活用します。 (REST通信)
++ 英語テキストをプロンプトで生成AIを活用します。 (HTTP通信)
 + 生成されたイメージを表示します。
 ### Test Environment (Only available in VR)
 + Meta Quest2
